@@ -213,7 +213,7 @@
     "simple-progress-webpack-plugin": "^1.1.2",
     "snyk": "^1.639.0",
     "start-server-and-test": "^1.12.1",
-    "stylelint": "^10.1.0",
+    "stylelint": "^14.15.0",
     "stylelint-config-standard": "^20.0.0",
     "stylelint-config-styled-components": "^0.1.1",
     "stylelint-processor-styled-components": "^1.10.0",
